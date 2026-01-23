@@ -1,0 +1,51 @@
+# This file contains the social media links and usernames of the author.
+# The commented lines are the default social media links supported by the template.
+# The socials will be displayed in the order they are defined here.
+
+email: jean-paul.travert@edf.fr
+arxiv_url: https://arxiv.org/search/cs?searchtype=author&query=Travert,+J
+github_username: jtravert
+scholar_userid: XV8oqecAAAAJ
+linkedin_username: jeanpaul-travert
+research_gate_profile: Jean-Paul-Travert
+
+# acm_id: # your dl.acm.org/profile/id
+# blogger_url: # your blogger URL
+# dblp_url: # your DBLP profile URL
+# discord_id: # your Discord ID (18-digit unique numerical identifier)
+# email: you@example.com # your email address
+# facebook_id: # your Facebook ID
+# flickr_id: # your Flickr ID
+# gitlab_username: # your GitLab user name
+# hal_id: # your HAL ID (https://hal.science/)
+# ieee_id: # your IEEE Xplore author ID
+# inspirehep_id: 1010907 # Inspire HEP author ID
+# instagram_id: # your Instagram ID
+# kaggle_id: # your Kaggle ID
+# keybase_username: # your Keybase user name
+# lastfm_id: # your Last.fm ID
+# lattes_id: # your ID on Lattes (Brazilian Lattes CV)
+# leetcode_id: # your LeetCode ID
+# mastodon_username: # your Mastodon instance+username in the format instance.tld/@username
+# medium_username: # your Medium username
+# orcid_id: # your ORCID ID
+# osf_id: # your OSF ID
+# pinterest_id: # your Pinterest ID
+# publons_id: # your ID on Publons
+# quora_username: # your Quora username
+# rss_icon: true # comment this line to hide the RSS icon
+# scopus_id: # your profile on Scopus
+# semanticscholar_id: # your Semantic Scholar ID
+# spotify_id: # your Spotify ID
+# stackoverflow_id: # your StackOverflow ID
+# strava_userid: # your Strava user ID
+# telegram_username: # your Telegram user name
+# unsplash_id: # your Unsplash ID
+# wechat_qr: # filename of your WeChat QR code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+# whatsapp_number: # your WhatsApp number (full phone number in international format)
+# wikidata_id: # your Wikidata ID
+# wikipedia_id: # your Wikipedia ID (Case sensitive)
+# work_url: # work page URL
+# x_username: # your X handle
+# youtube_id: # your YouTube channel ID (youtube.com/@<youtube_id>)
+# zotero_username: # your Zotero username
