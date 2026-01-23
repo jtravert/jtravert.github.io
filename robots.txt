@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jtravert.github.io//sitemap.xml
+Sitemap: https://jtravert.github.io//jtravert//sitemap.xml
