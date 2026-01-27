@@ -47,6 +47,7 @@ specific interest in the development of numerical tools.
 
 #### Upcoming events
 - Will be attenting [Géodata research day 2026](https://geodata-paris.fr/fr/agenda/journee-de-la-recherche-2026) on 10th of March 2026.
+
 #### News archive
 
 ### Awards
