@@ -46,7 +46,7 @@ specific interest in the development of numerical tools.
   [manuscript](http://jtravert.github.io/assets/files/Travert_PhD_Manuscript.pdf).
 
 #### Upcoming events
-
+- Will be attenting [Géodata research day 2026](https://geodata-paris.fr/fr/agenda/journee-de-la-recherche-2026) on 10th of March 2026.
 #### News archive
 
 ### Awards
