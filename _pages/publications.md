@@ -12,7 +12,11 @@ nav_order: 1
   **J.-P. Travert**, S. Boyaval, C. Goeury, V. Bacchi, F. Zaoui
   *Water Resources Research*, 61, e2024WR038506, 2025
   [Paper](https://doi.org/10.1029/2024WR038506)
-
+- **The contribution of sensitivity analysis and data assimilation to tidal-stream resource assessment: the example of the Alderney Race**
+  J. Thiébot, C. Goeury, **J.-P. Travert**, A. Sebastian, J. Salomon
+  *Applied Ocean Research*, 2026
+  [Paper](https://doi.org/10.1016/j.apor.2026.104970)
+  
 ---
 
 #### Under Review
@@ -21,19 +25,16 @@ nav_order: 1
   **J.-P. Travert**, C. Goeury, S. Boyaval, V. Bacchi, F. Zaoui
   *Natural Hazards and Earth System Sciences*, 2025
   [Paper](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3726/)
+- **Data assimilation of flood maps in a 2D flood model for different performance measures**
+  **J.-P. Travert**, S. Boyaval, C. Goeury, V. Bacchi, F. Zaoui
+  2025
+  [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5936594)
 
-- **The contribution of sensitivity analysis and data assimilation to tidal-stream resource assessment: the example of the Alderney Race**
-  J. Thiébot, C. Goeury, **J.-P. Travert**, A. Sebastian, J. Salomon
-  *Applied Ocean Research*, 2025
 
 ---
 
 #### Submitted Manuscripts
 
-- **Data assimilation of flood maps in a 2D flood model for different performance measures**
-  **J.-P. Travert**, S. Boyaval, C. Goeury, V. Bacchi, F. Zaoui
-  2025
-  [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5936594)
 
 - **Automatic Calibration and Simultaneous Estimation of Bottom Friction and Open Boundary Conditions in a Tidal Model**
   A. Sebastian, J. Thiébot, C. Goeury, **J.-P. Travert**, E. Poizot, G. Gregoire
