@@ -44,8 +44,15 @@ specific interest in the development of numerical tools.
   [Slides available](http://jtravert.github.io/assets/files/Talks/Travert_PhD_defense_slides_pres.pdf),
   as well as the
   [manuscript](http://jtravert.github.io/assets/files/Travert_PhD_Manuscript.pdf).
+- **The contribution of sensitivity analysis and data assimilation to tidal-stream resource assessment: the example of the Alderney Race**
+  J. Thiébot, C. Goeury, **J.-P. Travert**, A. Sebastian, J. Salomon
+  *Applied Ocean Research*, 2026
+  [Paper](https://doi.org/10.1016/j.apor.2026.104970)
+
+
 
 #### Upcoming events
+- Will be attenting [Congrès eau et IA 2026 2026](https://congreseau-ia.com/) on between 4th and 6th of March 2026.
 - Will be attenting [Géodata research day 2026](https://geodata-paris.fr/fr/agenda/journee-de-la-recherche-2026) on 10th of March 2026.
 
 #### News archive
