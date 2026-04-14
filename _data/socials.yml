@@ -28,7 +28,7 @@ research_gate_profile: Jean-Paul-Travert
 # leetcode_id: # your LeetCode ID
 # mastodon_username: # your Mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-# orcid_id: # your ORCID ID
+orcid_id: 0009-0001-1750-0007 # your ORCID ID (format: 0000-0000-0000-0000)
 # osf_id: # your OSF ID
 # pinterest_id: # your Pinterest ID
 # publons_id: # your ID on Publons

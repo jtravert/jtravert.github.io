@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you refer to this website or its content in academic work, please cite it as below."
+type: software
+title: "Jean-Paul Travert — Academic Website"
+authors:
+  - family-names: Travert
+    given-names: Jean-Paul
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # add your ORCID
+    affiliation: "EDF R&D — National Laboratory for Hydraulics and the Environment"
+    email: jean-paul.travert@edf.fr
+url: "https://jtravert.github.io"
+repository-code: "https://github.com/jtravert/jtravert.github.io"
+abstract: >
+  Personal academic website of Jean-Paul Travert, Research Engineer at EDF R&D.
+  Research focuses on flood modeling, roughness calibration, satellite data assimilation,
+  and numerical hydraulics.
+keywords:
+  - flood modeling
+  - hydraulics
+  - data assimilation
+  - satellite data
+  - roughness calibration
+  - shallow water equations
+  - TELEMAC
+license: MIT
+date-released: "2025-10-14"

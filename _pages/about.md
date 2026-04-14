@@ -9,11 +9,11 @@ profile:
   image: prog_pic.jpg
   image_circular: false # crops the image to make it circular
 
-selected_papers: false
-social: false
+selected_papers: true
+social: true
 
 announcements:
-  enabled: false
+  enabled: true
   scrollable: true
   limit: 5
 
@@ -52,8 +52,8 @@ specific interest in the development of numerical tools.
 
 
 #### Upcoming events
-- Will be attenting [Congrès eau et IA 2026 2026](https://congreseau-ia.com/) on between 4th and 6th of March 2026.
-- Will be attenting [Géodata research day 2026](https://geodata-paris.fr/fr/agenda/journee-de-la-recherche-2026) on 10th of March 2026.
+- Will be attending [Congrès eau et IA 2026](https://congreseau-ia.com/) from 4th to 6th of March 2026.
+- Will be attending [Géodata research day 2026](https://geodata-paris.fr/fr/agenda/journee-de-la-recherche-2026) on 10th of March 2026.
 
 #### News archive
 
@@ -61,5 +61,5 @@ specific interest in the development of numerical tools.
 - Received a [special mention](https://www.iahr.org/index/detail/1400) for the Gerhard Jirka Award for Young
 Researchers 2024, recognizing the best presentation given by a Young Professional during the biennial IAHR Europe Division Congress.
 [Slides available](http://jtravert.github.io/assets/files/Talks/IAHR_EUROPE_2024_TJ2.pdf)
-- Amonst the 31 most highly rated proposals by the CERN scientific jury for the Beamline for Schools competition ([BL4S](https://beamlineforschools.cern/))
+- Among the 31 most highly rated proposals by the CERN scientific jury for the Beamline for Schools competition ([BL4S](https://beamlineforschools.cern/))
 for the proposal "Comparison of the efficiency of antimatter and matter in cancer therapy".
