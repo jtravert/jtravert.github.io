@@ -497,6 +497,13 @@ ninja.data = [{
           window.open("https://www.researchgate.net/profile/Jean-Paul-Travert/", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0001-1750-0007", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
