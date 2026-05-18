@@ -38,7 +38,7 @@ I now contribute to projects on the evaluation of water resources, with a
 specific interest in the development of numerical tools.
 
 #### News
-
+- Paper alert: New accepted paper in Natural Hazards and Earth System Sciences. **Evaluating the effects of preprocessing, method selection, and hyperparameter tuning on SAR-based flood mapping and water depth estimation**, **J.-P. Travert**, C. Goeury, S. Boyaval, V. Bacchi, F. Zaoui, 2026.
 - Delighted to announce that I successfully defended my PhD on the 14th of
   October 2025! Thank you to the members of the jury.
   [Slides available](http://jtravert.github.io/assets/files/Talks/Travert_PhD_defense_slides_pres.pdf),
@@ -52,10 +52,10 @@ specific interest in the development of numerical tools.
 
 
 #### Upcoming events
-- Will be attending [Congrès eau et IA 2026](https://congreseau-ia.com/) from 4th to 6th of March 2026.
-- Will be attending [Géodata research day 2026](https://geodata-paris.fr/fr/agenda/journee-de-la-recherche-2026) on 10th of March 2026.
+- Wil be participating in [TELEMAC User Conference 2026](https://www.cerfacs.fr/tuc2026/) from October 14 to 16, 2026, in Toulouse, France.
 
 #### News archive
+- Attended [Congrès eau et IA 2026](https://congreseau-ia.com/) from 4th to 6th of March 2026.
 
 ### Awards
 - Received a [special mention](https://www.iahr.org/index/detail/1400) for the Gerhard Jirka Award for Young
