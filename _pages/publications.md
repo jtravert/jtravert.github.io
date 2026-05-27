@@ -7,7 +7,10 @@ nav_order: 1
 ---
 
 #### Journal Publications
-
+- **Evaluating the effects of preprocessing, method selection, and hyperparameter tuning on SAR-based flood mapping and water depth estimation**
+  **J.-P. Travert**, C. Goeury, S. Boyaval, V. Bacchi, F. Zaoui
+  *Natural Hazards and Earth System Sciences*, 2026
+  [Paper](https://nhess.copernicus.org/articles/26/2387/2026/)
 - **Evaluation of performance measures for comparing flood models with satellite observations**
   **J.-P. Travert**, S. Boyaval, C. Goeury, V. Bacchi, F. Zaoui
   *Water Resources Research*, 61, e2024WR038506, 2025
@@ -21,25 +24,14 @@ nav_order: 1
 
 #### Under Review
 
-- **Evaluating the effects of preprocessing, method selection, and hyperparameter tuning on SAR-based flood mapping and water depth estimation**
-  **J.-P. Travert**, C. Goeury, S. Boyaval, V. Bacchi, F. Zaoui
-  *Natural Hazards and Earth System Sciences*, 2025
-  [Paper](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3726/)
 - **Data assimilation of flood maps in a 2D flood model for different performance measures**
   **J.-P. Travert**, S. Boyaval, C. Goeury, V. Bacchi, F. Zaoui
   2025
   [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5936594)
-
-
----
-
-#### Submitted Manuscripts
-
-
 - **Automatic Calibration and Simultaneous Estimation of Bottom Friction and Open Boundary Conditions in a Tidal Model**
   A. Sebastian, J. Thiébot, C. Goeury, **J.-P. Travert**, E. Poizot, G. Gregoire
   2025
-
+  
 ---
 
 #### Conference Proceedings

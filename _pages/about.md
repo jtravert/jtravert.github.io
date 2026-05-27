@@ -38,7 +38,7 @@ I now contribute to projects on the evaluation of water resources, with a
 specific interest in the development of numerical tools.
 
 #### News
-- Paper alert: New accepted paper in Natural Hazards and Earth System Sciences. **Evaluating the effects of preprocessing, method selection, and hyperparameter tuning on SAR-based flood mapping and water depth estimation**, **J.-P. Travert**, C. Goeury, S. Boyaval, V. Bacchi, F. Zaoui, 2026.
+- Paper alert: New published paper in Natural Hazards and Earth System Sciences. **Evaluating the effects of preprocessing, method selection, and hyperparameter tuning on SAR-based flood mapping and water depth estimation**, **J.-P. Travert**, C. Goeury, S. Boyaval, V. Bacchi, F. Zaoui, 2026. [Paper](https://nhess.copernicus.org/articles/26/2387/2026/)
 - Delighted to announce that I successfully defended my PhD on the 14th of
   October 2025! Thank you to the members of the jury.
   [Slides available](http://jtravert.github.io/assets/files/Talks/Travert_PhD_defense_slides_pres.pdf),
