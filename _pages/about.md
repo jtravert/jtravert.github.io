@@ -38,16 +38,8 @@ I now contribute to projects on the evaluation of water resources, with a
 specific interest in the development of numerical tools.
 
 #### News
+- Paper alert: New published paper in Computational Geosciences. **Data assimilation of flood maps in a 2D flood model for different performance measures**, **J.-P. Travert**, S. Boyaval, C. Goeury, V. Bacchi, F. Zaoui, 2026. [Paper](https://link.springer.com/article/10.1007/s10596-026-10452-3)
 - Paper alert: New published paper in Natural Hazards and Earth System Sciences. **Evaluating the effects of preprocessing, method selection, and hyperparameter tuning on SAR-based flood mapping and water depth estimation**, **J.-P. Travert**, C. Goeury, S. Boyaval, V. Bacchi, F. Zaoui, 2026. [Paper](https://nhess.copernicus.org/articles/26/2387/2026/)
-- Delighted to announce that I successfully defended my PhD on the 14th of
-  October 2025! Thank you to the members of the jury.
-  [Slides available](http://jtravert.github.io/assets/files/Talks/Travert_PhD_defense_slides_pres.pdf),
-  as well as the
-  [manuscript](http://jtravert.github.io/assets/files/Travert_PhD_Manuscript.pdf).
-- **The contribution of sensitivity analysis and data assimilation to tidal-stream resource assessment: the example of the Alderney Race**
-  J. Thiébot, C. Goeury, **J.-P. Travert**, A. Sebastian, J. Salomon
-  *Applied Ocean Research*, 2026
-  [Paper](https://doi.org/10.1016/j.apor.2026.104970)
 
 
 
@@ -56,6 +48,15 @@ specific interest in the development of numerical tools.
 
 #### News archive
 - Attended [Congrès eau et IA 2026](https://congreseau-ia.com/) from 4th to 6th of March 2026.
+- **The contribution of sensitivity analysis and data assimilation to tidal-stream resource assessment: the example of the Alderney Race**
+  J. Thiébot, C. Goeury, **J.-P. Travert**, A. Sebastian, J. Salomon
+  *Applied Ocean Research*, 2026
+  [Paper](https://doi.org/10.1016/j.apor.2026.104970)
+- Delighted to announce that I successfully defended my PhD on the 14th of
+  October 2025! Thank you to the members of the jury.
+  [Slides available](http://jtravert.github.io/assets/files/Talks/Travert_PhD_defense_slides_pres.pdf),
+  as well as the
+  [manuscript](http://jtravert.github.io/assets/files/Travert_PhD_Manuscript.pdf).
 
 ### Awards
 - Received a [special mention](https://www.iahr.org/index/detail/1400) for the Gerhard Jirka Award for Young

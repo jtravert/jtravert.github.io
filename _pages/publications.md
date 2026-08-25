@@ -7,6 +7,10 @@ nav_order: 1
 ---
 
 #### Journal Publications
+- **Automatic Calibration and Simultaneous Estimation of Bottom Friction and Open Boundary Conditions in a Tidal Model**
+  A. Sebastian, J. Thiébot, C. Goeury, **J.-P. Travert**, E. Poizot, G. Gregoire, *Applied Ocean Research*, 
+  2026 [Paper](https://www.sciencedirect.com/science/article/pii/S0141118726002282)
+- **Data assimilation of flood maps in a 2D flood model for different performance measures**, **J.-P. Travert**, S. Boyaval, C. Goeury, V. Bacchi, F. Zaoui, *Computational Geosciences*, 2026 [Paper](https://link.springer.com/article/10.1007/s10596-026-10452-3)
 - **Evaluating the effects of preprocessing, method selection, and hyperparameter tuning on SAR-based flood mapping and water depth estimation**
   **J.-P. Travert**, C. Goeury, S. Boyaval, V. Bacchi, F. Zaoui
   *Natural Hazards and Earth System Sciences*, 2026
@@ -19,18 +23,6 @@ nav_order: 1
   J. Thiébot, C. Goeury, **J.-P. Travert**, A. Sebastian, J. Salomon
   *Applied Ocean Research*, 2026
   [Paper](https://doi.org/10.1016/j.apor.2026.104970)
-  
----
-
-#### Under Review
-
-- **Data assimilation of flood maps in a 2D flood model for different performance measures**
-  **J.-P. Travert**, S. Boyaval, C. Goeury, V. Bacchi, F. Zaoui
-  2025
-  [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5936594)
-- **Automatic Calibration and Simultaneous Estimation of Bottom Friction and Open Boundary Conditions in a Tidal Model**
-  A. Sebastian, J. Thiébot, C. Goeury, **J.-P. Travert**, E. Poizot, G. Gregoire
-  2025
   
 ---
 
